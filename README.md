@@ -5,6 +5,7 @@
 | **CPU** |  2+ Cores |
 | **RAM** |    4GB   |
 | **Storage** | 80+GB |
+| **OS** | Debian 10 |
 
 ### Set up a Blurt Full Node
 
