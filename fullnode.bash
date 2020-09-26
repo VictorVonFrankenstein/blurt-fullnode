@@ -39,7 +39,7 @@ rm -rf build
 rm download
 
 # CONFIG.INI FOR SEAMLESS
-wget -O /blurt/config.ini https://github.com/ericet/blurt-fullnode/config.ini
+wget -O /blurt/config.ini https://raw.githubusercontent.com/ericet/blurt-fullnode/master/config.ini
 
 # ENSURE THAT BLURTD AND CLI_WALLET ARE EXECUTABLE
 chmod +x /usr/bin/blurtd
